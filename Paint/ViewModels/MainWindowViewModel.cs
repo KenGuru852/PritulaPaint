@@ -228,6 +228,7 @@ namespace Paint.ViewModels
             SelectedFillIndex = 0;
             lineThickness = 0;
             SelectedBoxIndex = 0;
+            MixCommands = "";
         }
 
 
