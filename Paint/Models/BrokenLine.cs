@@ -32,7 +32,7 @@ namespace Paint.Models
                 GetPoints.Add(Point.Parse(NewPoint));
             }
             // "20 400, 400 500, 550 870"
-            Name = Name;
+            Name = SName;
             _BrokenLinePoints = SBrokenPoints;
             LineThickness= SLineThickness;
             LineColor = SLineColor;
